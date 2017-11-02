@@ -1,4 +1,4 @@
-Kleefaan hide SEO Yoast stuff
+Hide Yoast SEO admin output for non-admins
 ============================
 
 Version
@@ -21,7 +21,7 @@ Changelog
 
 General Information
 -------------------
-Hides annoying SEO stuff from Yoast SEO plugin for non administrators.
+Hides stuff from the Yoast SEO plugin for other users then administrators. Extremely useful for clients that do not need to have SEO meta fields/columns visible on their admin.
 
 
 Getting Started
@@ -29,6 +29,7 @@ Getting Started
 install in your WP Plugin directory and activate!
 
 
-
-Custom
+Contribute
 -----------------
+Help me contribute to this project and make it better, your help is very welcome.
+See: https://gist.github.com/MarcDiethelm/7303312
